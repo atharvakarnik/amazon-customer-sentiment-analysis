@@ -21,16 +21,16 @@ This specialization covers the following key areas:
 ## Projects and Notebooks
 
 - **Data Collection and Storage**
-  - Description: Setup of AWS S3 and Redshift for data ingestion.
+  - Setup of AWS S3 and Redshift for data ingestion.
 
 - **Data Processing**
-  - Description: Data processing using AWS Glue and Pandas.
+  - Data processing using AWS Glue and Pandas.
 
 - **Machine Learning**
-  - Description: Training various ML models using Amazon SageMaker.
+  - Training various ML models using Amazon SageMaker.
 
 - **Deployment and Monitoring**
-  - Description: Deploying models and setting up monitoring.
+  - Deploying models and setting up monitoring.
 
 ## Conclusion
 
